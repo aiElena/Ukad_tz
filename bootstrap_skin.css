@@ -60,7 +60,6 @@ a:active {
 	border-radius: 0;
 }
 .jumbotron{
-	font-family:'Exo 2',sans-serif;
 	background-image: url("img/fon1.png");
 	background-color: #cccccc;
 	color: #ffffff;
@@ -108,7 +107,6 @@ a:active {
 }
 
 .jumbotron input {
-   font-family:'MyriadProRegular',sans-serif;
    border: none; 
    border-radius: 0; 
    -webkit-border-radius: 0; 
