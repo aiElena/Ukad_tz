@@ -124,22 +124,11 @@ a:active {
 }
 .foot{
 	background: #000000 !important;
+	 padding-bottom: 30px;
+	 color: #888888;
+
 }
-footer {
-  
-   background: #000000 !important;
-   color: #888888;
-   padding-bottom: 30px;
-    
-}
-footer .container{
-	background: #000000 !important;
-    color: #888888;
-    padding-bottom: 30px;
-	margin-left: 30px;
-	margin-top: 30px;
-	
-}
+
 footer h3{
 	font-family:'MyriadProRegular',sans-serif;
     text-transform: uppercase;
